@@ -1,6 +1,6 @@
-> [Robust and Efficient Visual-Inertial Odometry with Multi-plane Priors](http://www.cad.zju.edu.cn/home/gfzhang/projects/prcv2019-planeVIO.pdf)  
-> [Jinyu Li](https://github.com/itsuhane), [Bangbang Yang](https://github.com/ybbbbt), [Kai Huang](https://github.com/elegracer), [Guofeng Zhang](https://github.com/guofengzhang), and Hujun Bao*   
-> PRCV 2019, LNCS 11859, pp. 283–295, 2019.   
+> [RLP-VIO: Robust and lightweight plane-based visual-inertial odometry for augmented reality](https://onlinelibrary.wiley.com/doi/10.1002/cav.2046)  
+> [Jinyu Li](https://github.com/itsuhane), [Zhou Xin](https://github.com/ZhouXiner), [Bangbang Yang](https://github.com/ybbbbt), [Guofeng Zhang](https://github.com/guofengzhang), Wang  Xun,and Hujun Bao*   
+> CAVW 2022, pp. e2046, 2022.   
 
 ## How to use
 
@@ -31,16 +31,13 @@ For execution:
 
 If you use this source code for your academic publication, please cite the following paper.
 ```
-@inproceedings{PRCV-LiYHZB2019,
-  author={Jinyu Li and Bangbang Yang and Kai Huang and Guofeng Zhang and Hujun Bao},
-  title     = {Robust and Efficient Visual-Inertial Odometry with Multi-plane Priors},
-  booktitle = {Pattern Recognition and Computer Vision - Second Chinese Conference,
-               {PRCV} 2019, Xi'an, China, November 8-11, 2019, Proceedings, Part {III}},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {11859},
-  pages     = {283--295},
-  publisher = {Springer},
-  year      = {2019}
+@article{li2022rlp,
+  title={RLP-VIO: Robust and lightweight plane-based visual-inertial odometry for augmented reality},
+  author={Li, Jinyu and Zhou, Xin and Yang, Bangbang and Zhang, Guofeng and Wang, Xun and Bao, Hujun},
+  journal={Computer Animation and Virtual Worlds},
+  pages={e2046},
+  year={2022},
+  publisher={Wiley Online Library}
 }
 ```
 
