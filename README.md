@@ -1,5 +1,5 @@
 > [RLP-VIO: Robust and lightweight plane-based visual-inertial odometry for augmented reality](https://onlinelibrary.wiley.com/doi/10.1002/cav.2046)  
-> [Jinyu Li](https://github.com/itsuhane), [Zhou Xin](https://github.com/ZhouXiner), [Bangbang Yang](https://github.com/ybbbbt), [Guofeng Zhang](https://github.com/guofengzhang), Wang  Xun,and Hujun Bao*   
+> [Jinyu Li](https://github.com/itsuhane), [Xin Zhou](https://github.com/ZhouXiner), [Bangbang Yang](https://github.com/ybbbbt), [Guofeng Zhang*](https://github.com/guofengzhang), Xun Wang ,and Hujun Bao   
 > CAVW 2022, pp. e2046, 2022.   
 
 ## How to use
